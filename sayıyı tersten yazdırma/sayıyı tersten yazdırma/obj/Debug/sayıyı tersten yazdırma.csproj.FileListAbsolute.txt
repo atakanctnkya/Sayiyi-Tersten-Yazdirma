@@ -1,0 +1,7 @@
+D:\C#\sayıyı tersten yazdırma\sayıyı tersten yazdırma\bin\Debug\sayıyı tersten yazdırma.exe.config
+D:\C#\sayıyı tersten yazdırma\sayıyı tersten yazdırma\bin\Debug\sayıyı tersten yazdırma.exe
+D:\C#\sayıyı tersten yazdırma\sayıyı tersten yazdırma\bin\Debug\sayıyı tersten yazdırma.pdb
+D:\C#\sayıyı tersten yazdırma\sayıyı tersten yazdırma\obj\Debug\sayıyı tersten yazdırma.csprojAssemblyReference.cache
+D:\C#\sayıyı tersten yazdırma\sayıyı tersten yazdırma\obj\Debug\sayıyı tersten yazdırma.csproj.CoreCompileInputs.cache
+D:\C#\sayıyı tersten yazdırma\sayıyı tersten yazdırma\obj\Debug\sayıyı tersten yazdırma.exe
+D:\C#\sayıyı tersten yazdırma\sayıyı tersten yazdırma\obj\Debug\sayıyı tersten yazdırma.pdb
